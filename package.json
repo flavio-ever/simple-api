@@ -5,6 +5,9 @@
   "repository": "https://github.com/flavio-ever/bootcamp-gostack-desafio-01.git",
   "author": "Flavio Everton <flavio.ever@icloud.com>",
   "license": "MIT",
+  "scripts": {
+    "dev": "nodemon server"
+  },
   "dependencies": {
     "express": "^4.17.1"
   },
