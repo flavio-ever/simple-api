@@ -1,0 +1,14 @@
+{
+  "name": "bootcamp-gostack-desafio-01",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/flavio-ever/bootcamp-gostack-desafio-01.git",
+  "author": "Flavio Everton <flavio.ever@icloud.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.4"
+  }
+}
